@@ -52,6 +52,6 @@
     "tap-diff": "^0.1.1"
   },
   "peerDependencies": {
-    "fastify": "^1.0.0"
+    "fastify": "^3.0.0"
   }
 }
