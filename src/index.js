@@ -14,6 +14,6 @@ const noCache = (app, opts, next) => {
 };
 
 module.exports = fp(noCache, {
-	fastify: '^1.0.0',
+	fastify: '^3.0.0',
 	name: 'fastify-no-cache'
 });
